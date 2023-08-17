@@ -3,7 +3,7 @@ STM32f103c8t6 Development Repo on ubuntu with all needed makefile and skeleton f
 
 
 
-# Prerequiset for building the project 
+# Prerequisites for building the project 
 install st-link tool and arm-gcc-none-eabi compiler
 or run these commands
 > sudo apt-get install stlink-tools gcc-arm-none-eabi
